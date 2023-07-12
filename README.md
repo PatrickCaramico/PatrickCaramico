@@ -20,7 +20,7 @@ Seja bem-vindo ao meu GitHub! Aqui você encontrará todos os meus projetos e id
 ---------------------------------------------------------------------------------
 • Possuo conhecimentos básicos em Desenvolvimento de Software e vendas;
 
-• Adoro desenvolver projetos utilizando linguagens de programação como C#, JavaScript e HTML;
+• Adoro desenvolver projetos utilizando linguagens de programação como CSS, JavaScript e HTML;
 
 • Estou estudando inglês pelo Duolingo;
 
