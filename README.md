@@ -1,16 +1,27 @@
-### Hi there 👋
+👋 Oie! Sou o Patrick Caramico!
 
-<!--
-**PatrickCaramico/PatrickCaramico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem vindo ao meu GitHub, aqui você verá todos meus projetos e ideias incriveis.
 
-Here are some ideas to get you started:
+.🌎 Moro em São Paulo, Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.💻 Fique a vontade para ver meu portfólio no https://sites.google.com/view/portfoliopatrickcaramico/página-inicial
+
+.📨 Você pode entrar em contato comigo por trick.caramico88@gmail.com
+
+.🎯 No momento estou procurando por uma oportunidade proficional na area
+
+.🧠 Estou aprendendo sobre HTML, CSS e Javascript
+
+.📋 Fique a vontade para me perguntar qualquer coisa!
+
+🎯🚀Curiosidades sobre mim
+---------------------------------------------------------------------------------
+• Conhecimentos básicos em Desenvolvimento de Software e vendas;
+
+• Adoro desenvolver projetos em linguagem de programação, C#, Javascript, HTML;
+
+• Estou estudando Inglês pelo Duolingo;
+
+• Sou uma pessoa super curiosa em mexer em softwares de computador;
+
+----------------------------------------------------------------
