@@ -1,29 +1,29 @@
-👋 Oie! Sou o Patrick Caramico!
+👋 Olá! Sou o Patrick Caramico!
 
-Seja bem vindo ao meu GitHub, aqui você verá todos meus projetos e ideias incriveis.
+Seja bem-vindo ao meu GitHub! Aqui você encontrará todos os meus projetos e ideias incríveis.
 
 <img align="right" src="images/image.png" width="300px"/>
 
-.🌎 Moro em São Paulo, Brasil.
+🌎 Moro em São Paulo, Brasil.
 
-.💻 Fique a vontade para ver meu portfólio no https://sites.google.com/view/portfoliopatrickcaramico/página-inicial
+💻 Fique à vontade para visitar meu portfólio em https://sites.google.com/view/portfoliopatrickcaramico/página-inicial.
 
-.📨 Você pode entrar em contato comigo por trick.caramico88@gmail.com
+📨 Você pode entrar em contato comigo através do e-mail trick.caramico88@gmail.com.
 
-.🎯 No momento estou procurando por uma oportunidade proficional na area
+🎯 No momento, estou procurando por oportunidades profissionais na área.
 
-.🧠 Estou aprendendo sobre HTML, CSS e Javascript
+🧠 Estou aprendendo sobre HTML, CSS e JavaScript.
 
-.📋 Fique a vontade para me perguntar qualquer coisa!
+📋 Sinta-se à vontade para me fazer qualquer pergunta!
 
-🎯🚀Curiosidades sobre mim
+🎯🚀 Curiosidades sobre mim
 ---------------------------------------------------------------------------------
-• Conhecimentos básicos em Desenvolvimento de Software e vendas;
+• Possuo conhecimentos básicos em Desenvolvimento de Software e vendas;
 
-• Adoro desenvolver projetos em linguagem de programação, C#, Javascript, HTML;
+• Adoro desenvolver projetos utilizando linguagens de programação como C#, JavaScript e HTML;
 
-• Estou estudando Inglês pelo Duolingo;
+• Estou estudando inglês pelo Duolingo;
 
-• Sou uma pessoa super curiosa em mexer em softwares de computador;
+• Sou uma pessoa bastante curiosa e gosto de explorar softwares de computador;
 
 ----------------------------------------------------------------
