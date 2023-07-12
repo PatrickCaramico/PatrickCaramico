@@ -2,6 +2,10 @@
 
 Seja bem vindo ao meu GitHub, aqui você verá todos meus projetos e ideias incriveis.
 
+<div align="right">
+<img src="https://github.com/PatrickCaramico/PatrickCaramico/issues/1#issue-1801161418" width="700px"/>
+</div>
+
 .🌎 Moro em São Paulo, Brasil.
 
 .💻 Fique a vontade para ver meu portfólio no https://sites.google.com/view/portfoliopatrickcaramico/página-inicial
