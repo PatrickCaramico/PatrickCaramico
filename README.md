@@ -8,6 +8,8 @@ Seja bem-vindo ao meu GitHub! Aqui você encontrará todos os meus projetos e id
 
 💻 Fique à vontade para visitar meu portfólio em https://sites.google.com/view/portfoliopatrickcaramico/página-inicial.
 
+📋 Meu currículo digital, fique à vontade para visitar: https://patrickcaramico.github.io/Curriculo_Digital/
+
 📨 Você pode entrar em contato comigo através do e-mail trick.caramico88@gmail.com.
 
 🎯 No momento, estou procurando por oportunidades profissionais na área.
