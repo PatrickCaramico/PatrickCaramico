@@ -13,6 +13,8 @@ https://patrickcaramico.github.io/Meu_Portfolio/
 
 📨 Você pode entrar em contato comigo através do e-mail: patrickcaramico88@gmail.com
 
+📲 Você pode entrar em contato comigo também pelo meu whats: (11) 97338-1905
+
 🎯 No momento, estou procurando por oportunidades profissionais na área.
 
 🧠 Estou aprendendo sobre HTML, CSS e JavaScript.
