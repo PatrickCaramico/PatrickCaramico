@@ -11,7 +11,7 @@ http://patrickcaramico.com.br/
 
 📋 Meu currículo digital, fique à vontade para visitar: https://patrickcaramico.github.io/Digital_Curriculo/
 
-📜 Minha carta de apresentação, fique à vontade para visitar: patrickcaramico.github.io/Projeto_Carta/
+📜 Minha carta de apresentação, fique à vontade para visitar: https://github.com/PatrickCaramico/Projeto_Carta
 
 📨 Você pode entrar em contato comigo através do e-mail: patrickcaramico88@gmail.com
 
