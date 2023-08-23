@@ -19,7 +19,6 @@
 
 #
 
-
 # 📑 Resume: 
 • 📋 Meu currículo digital, fique à vontade para visitar: https://patrickcaramico.github.io/Digital_Curriculo/
 
@@ -28,10 +27,8 @@
 • 💻 Fique à vontade para visitar meu portfólio em 
   http://patrickcaramico.com.br/
 
-
 # 📱 Get in Touch:
 • 📨 Você pode entrar em contato comigo através do e-mail: patrickcaramico88@gmail.com
-
 
 # 📋 Questions:
 
@@ -50,3 +47,9 @@
 
 • 🌎 Moro em São Paulo, Brasil.
 #
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PatricKCaramico&theme=dark&hideborder=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PatrickCaramicoe&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickCaramico&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
