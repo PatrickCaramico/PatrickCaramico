@@ -32,7 +32,7 @@
 
 # 📋 Questions:
 
-• 📜 Sinta-se à vontade para me fazer qualquer pergunta!
+• 📜 Sinta-se à vontade para fazer qualquer pergunta!
 
 #
 
