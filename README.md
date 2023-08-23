@@ -11,6 +11,15 @@
 #
 <img align="right" src="images/image.png" width="500px"/>
 
+# 📌 Objective:
+
+• 🎯 No momento, estou procurando por oportunidades profissionais na área.
+
+• 🧠 Estou aprendendo sobre HTML, CSS e JavaScript.
+
+#
+
+
 # 📑 Resume: 
 • 📋 Meu currículo digital, fique à vontade para visitar: https://patrickcaramico.github.io/Digital_Curriculo/
 
@@ -24,25 +33,20 @@
 • 📨 Você pode entrar em contato comigo através do e-mail: patrickcaramico88@gmail.com
 
 
-# 📌 Objective:
-
-• 🎯 No momento, estou procurando por oportunidades profissionais na área.
-
-• 🧠 Estou aprendendo sobre HTML, CSS e JavaScript.
-
-
 # 📋 Questions:
 
 • 📜 Sinta-se à vontade para me fazer qualquer pergunta!
 
+#
+
 # 🎯🚀 Curiosidades sobre mim: 
-• Possuo conhecimentos básicos em Desenvolvimento de Software e vendas;
+• 🗂 Possuo conhecimentos básicos em Desenvolvimento de Software e vendas;
 
-• Adoro desenvolver projetos utilizando linguagens de programação como CSS, JavaScript e HTML;
+• ⌨ Adoro desenvolver projetos utilizando linguagens de programação como CSS, JavaScript e HTML;
 
-• Estou estudando inglês pelo Duolingo;
+• 🧠 Estou estudando inglês pelo Duolingo;
 
-• Sou uma pessoa bastante curiosa e gosto de explorar softwares de computador;
+• 🖥 Sou uma pessoa bastante curiosa e gosto de explorar softwares de computador;
 
 • 🌎 Moro em São Paulo, Brasil.
 #
