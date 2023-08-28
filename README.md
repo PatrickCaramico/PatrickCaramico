@@ -20,21 +20,8 @@
 #
 
 # 📑 Resume: 
-• 📋 Meu currículo digital, fique à vontade para visitar: https://patrickcaramico.github.io/Digital_Curriculo/
-
-• 📜 Minha carta de apresentação, fique à vontade para visitar: https://github.com/PatrickCaramico/Projeto_Carta/
-
 • 💻 Fique à vontade para visitar meu portfólio em 
   http://patrickcaramico.com.br/
-
-# 📱 Get in Touch:
-• 📨 Você pode entrar em contato comigo através do e-mail: patrickcaramico88@gmail.com
-
-# 📋 Questions:
-
-• 📜 Sinta-se à vontade para fazer qualquer pergunta!
-
-#
 
 # 🎯🚀 Curiosidades sobre mim: 
 • 🗂 Possuo conhecimentos básicos em Desenvolvimento de Software e vendas;
@@ -45,7 +32,6 @@
 
 • 🖥 Sou uma pessoa bastante curiosa e gosto de explorar softwares de computador;
 
-• 🌎 Moro em São Paulo, Brasil.
 #
 
 # 📊 GitHub Stats:
