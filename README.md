@@ -12,7 +12,7 @@
 # 📌 Objective:
 • 🎯 Currently, I'm seeking professional opportunities in the field.
 
-• 🧠 I'm learning about HTML, CSS, and JavaScript.
+• 🧠 I'm learning about HTML, CSS, JavaScript, PHP, Python, and Wordpress. 
 
 #
 
@@ -23,7 +23,7 @@
 # 🎯🚀 Fun Facts about Me:
 • 🗂 I have basic knowledge in Software Development and sales;
 
-• ⌨ I enjoy developing projects using programming languages like CSS, JavaScript, and HTML;
+• ⌨ I enjoy developing projects using programming languages like CSS, JavaScript, HTML, PHP and Python;
 
 • 🧠 I'm learning English through Duolingo;
 
