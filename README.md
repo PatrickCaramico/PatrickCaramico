@@ -13,10 +13,6 @@
 
 #
 
-# 📑 Portfolio: 
-• 💻 Feel free to visit my portfolio at
-  http://patrickcaramico.com.br/
-
 # 🎯🚀 Fun Facts about Me:
 • 🗂 I have basic knowledge in Software Development and sales;
 
@@ -27,6 +23,10 @@
 • 🖥 I'm quite curious and like to explore computer software;
 
 #
+
+# 📑 Portfolio: 
+• 💻 Feel free to visit my portfolio at
+  http://patrickcaramico.com.br/
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PatricKCaramico&theme=dark&hideborder=false)<br>
