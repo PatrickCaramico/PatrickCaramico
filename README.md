@@ -11,8 +11,6 @@
 
 • 🧠 I'm learning about HTML, CSS, JavaScript, PHP, Python, and Wordpress. 
 
-#
-
 # 🎯🚀 Fun Facts about Me:
 • 🗂 I have basic knowledge in Software Development and sales;
 
@@ -21,8 +19,6 @@
 • 🧠 I'm learning English through Duolingo;
 
 • 🖥 I'm quite curious and like to explore computer software;
-
-#
 
 # 📑 Portfolio: 
 • 💻 Feel free to visit my portfolio at
