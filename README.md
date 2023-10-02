@@ -3,7 +3,6 @@
 
 [![linkedin Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickcaramico)](https://www.linkedin.com/in/patrickcaramico/)
 [![Twitter Badge](https://img.shields.io/badge/Caramico%20Patrick-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CaramicoPatrick)](https://twitter.com/CaramicoPatrick)
-[![Instagram Badge](https://img.shields.io/badge/Patrick%20Caramico-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/patrick_caramico112/)](https://www.instagram.com/patrick_caramico112/)
 </div>
 
 # 💻 Tech Stack:
