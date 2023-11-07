@@ -35,8 +35,6 @@
 • 💻 Feel free to visit my portfolio at
   http://patrickcaramico.com.br/
 
-![Snake animation](https://github.com/PatrickCaramico/PatrickCaramico/blob/output/github-contribution-grid-snake.svg)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PatricKCaramico&theme=dark&hideborder=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PatrickCaramico&theme=dark&hide_border=false)<br>
