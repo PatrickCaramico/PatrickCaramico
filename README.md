@@ -19,7 +19,7 @@
 # 📌 Objective:
 • 🎯 Currently, I'm seeking professional opportunities in the field.
 
-• 🧠 I'm learning about HTML, CSS, JavaScript, PHP, Python, and Wordpress. 
+• 🧠 I am studying about full stack skills and specializing more and more in this area.  
 
 # 🎯🚀 Fun Facts about Me:
 • 🗂 I have  knowledge in Software Development and sales;
