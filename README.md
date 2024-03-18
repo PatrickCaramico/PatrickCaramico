@@ -8,7 +8,7 @@
 # Social Media
 <div width="100%" align="center">
 
-[![linkedin Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickcaramico)](https://www.linkedin.com/in/patrickcaramico/) [![Github Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=github&logoColor=white&Github&logoColor=black&link=https://github.com/PatrickCaramico)](https://github.com/PatrickCaramico)
+[![linkedin Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickcaramico)](https://www.linkedin.com/in/patrickcaramico/) [![Github Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=Github&logoColor=black&Github&logoColor=black&link=https://github.com/PatrickCaramico)](https://github.com/PatrickCaramico)
 </div>
 
 # 💻 Tech Stack:
