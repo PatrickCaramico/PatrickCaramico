@@ -19,20 +19,21 @@
 # 📌 Objective:
 • 🎯 Currently, I'm seeking professional opportunities in the field.
 
-• 🧠 I am studying about full stack skills and specializing more and more in this area.  
+• 🧠 I am constantly studying and improving my skills as a Full Stack developer.  
 
 # 🎯🚀 Fun Facts about Me:
 • 🗂 I have  knowledge in Software Development and sales;
 
-• ⌨ I enjoy developing projects using programming languages like CSS, JavaScript, HTML, PHP and Python;
+• ⌨ I enjoy working on projects using programming languages such as HTML5, CSS3, Javascript, Bootstrap, MySQL, PHP e muitos outros. 
 
-• 🧠 I'm learning English through Duolingo;
+• 🧠 I am learning English through Duolingo.
 
-• 🖥 I'm quite curious and like to explore computer software;
+• 🖥 I am curious and love exploring software and create website;
 
 # 📑 Portfolio: 
-• 💻 Feel free to visit my portfolio at
-  http://patrickcaramico.com.br/
+• 💻 Feel free to visit my portfolio at [PatrickCaramico](http://patrickcaramico.com.br/)
+
+© 2023 Patrick Caramico. All rights reserved.
 
 <p align="center">
   <img src="images/snake-animation.svg" alt="snake - REAME Typing SVG">
