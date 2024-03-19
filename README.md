@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
   <br>
@@ -22,7 +21,7 @@
 • 🧠 I am constantly studying and improving my skills as a Full Stack developer.  
 
 # 🎯🚀 Fun Facts about Me:
-• 🗂 I have  knowledge in Software Development and sales;
+• 🗂 knowledge in Software Development and sales;
 
 • ⌨ I enjoy working on projects using programming languages such as HTML5, CSS3, Javascript, Bootstrap, MySQL, PHP e muitos outros. 
 
