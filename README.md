@@ -16,12 +16,15 @@
 <img align="right" src="images/image.png" width="500px"/>
 
 # 📌 Objective:
-• 🎯 Currently, I'm seeking professional opportunities in the field.
+• 🎯 - Support analyst, <br>
+      - Programmer, <br>
+      - Developer, <br>
+      - Full Stack.<br>
 
 • 🧠 I am constantly studying and improving my skills as a Full Stack developer.  
 
 # 🎯🚀 Fun Facts about Me:
-• 🗂 knowledge in Software Development and sales;
+• 🗂 Knowledge in Software Development and sales;
 
 • ⌨ I enjoy working on projects using programming languages such as HTML5, CSS3, Javascript, Bootstrap, MySQL, PHP e muitos outros. 
 
