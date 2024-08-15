@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="Images/FundoGitHubpng.png"  />
+  <img height="200" src=""  />
 </div>
 
 ###
@@ -61,13 +61,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PatrickCaramico&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=PatrickCaramico&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcaramico&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=patrickcaramico&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PatrickCaramico/PatrickCaramico/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/patrickcaramico/patrickcaramico/output/snake.svg" alt="Snake animation" />
 
 ###
 
