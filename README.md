@@ -67,6 +67,10 @@
 
 ###
 
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PatrickCaramico/PatrickCaramico/output/github-contribution-grid-snake.svg" />
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/patrickcaramico/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
