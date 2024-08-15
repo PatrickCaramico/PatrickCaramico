@@ -67,11 +67,6 @@
 
 ###
 
-![Snake animation](https://github.com/PatrickCaramico/PatrickCaramico/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=PatrickCaramico&repo=PatrickCaramico&theme=react)](https://github.com/PatrickCaramico/PatrickCaramico)
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/patrickcaramico/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
