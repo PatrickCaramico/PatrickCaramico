@@ -67,7 +67,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/patrickcaramico/patrickcaramico/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/PatrickCaramico/PatrickCaramico/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=PatrickCaramico&repo=PatrickCaramico&theme=react)](https://github.com/PatrickCaramico/PatrickCaramico)
 
 ###
 
