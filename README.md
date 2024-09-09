@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Knowledge in Software Development and sales; <br>📚 I'm currently learning Inglês através do Duolingo.<br>🎯 Goals: Create codes to create pages and software in HTML5, CSS3, Bootstrap4, MySQL and many others.<br>🎲 Fun fact: I love exploring software and creating websites</p>
+<p align="left">✨Knowledge in Software Development and sales; <br>📚 I'm currently learning English through Duolingo.<br>🎯 Goals: Create codes to create pages and software in HTML5, CSS3, Bootstrap4, MySQL and many others.<br>🎲 Fun fact: I love exploring software and creating websites</p>
 
 ###
 
