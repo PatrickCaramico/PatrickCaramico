@@ -1,106 +1,76 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Olá, eu sou o Patrick Souza 👋</h1>
+<h3 align="center">Desenvolvedor Front-End | Especializado em UI/UX e Web Responsiva</h3>
 
-###
+---
 
-<p align="left">My name is Patrick Caramico and I'm a Front End Developer 💻📚</p>
+### 👨‍💻 Sobre Mim
 
-###
+Sou um desenvolvedor Front-End apaixonado por criar interfaces e experiências de usuário incríveis. Com formação em desenvolvimento de software e experiência em vendas, tenho uma visão completa do ciclo de produto, do conceito à entrega.
 
-<h2 align="left">About me</h2>
+Este portfólio é um espaço em constante evolução. Meu compromisso é sempre adicionar novos projetos e aprimorar os existentes, refletindo minha busca contínua por aprimoramento técnico e de boas práticas de codificação.
 
-###
+---
 
-<p align="left">✨Knowledge in Software Development and sales; <br>📚 I'm currently learning English through Duolingo.<br>🎯 Goals: Create codes to create pages and software in HTML5, CSS3, Bootstrap4, MySQL and many others.<br>🎲 Fun fact: I love exploring software and creating websites</p>
+### 🛠️ Minhas Habilidades e Ferramentas
 
-###
+| Linguagens | Layout & Design | Ferramentas |
+| :--- | :--- | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> | **Layouts:** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /> | Flexbox | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> | CSS Grid | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" /> | Responsividade | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> | Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /> | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> |
+| | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" /> |
+
+---
+
+### 🚀 Meus Projetos
+
+Este repositório é um resumo dos meus projetos mais importantes. Para ver mais, acesse meu portfólio completo.
+
+-   **Projeto em Destaque**:
+    -   **Projeto 10: Infusion**: Um tema de negócios completo, onde apliquei a **modularização de JavaScript** criando classes para um carrossel genérico e para o menu.
+
+-   **Outros Projetos**:
+    -   **ClickTIme_V3**: A terceira versão de um sistema de gestão de tempo, demonstrando a evolução do projeto e a adição de novas funcionalidades.
+    -   **project_login**: Um sistema de autenticação e login, focando na segurança e na experiência do usuário para acesso restrito.
+
+🔗 [**Veja meu portfólio completo aqui**](https://github.com/PatrickCaramico?tab=repositories)
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="200" src="Images/FundoGitHubpng.png"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcaramico&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages graph" />
+  <img src="https://streak-stats.demolab.com?user=patrickcaramico&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=patrickcaramico&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy graph" />
 </div>
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/patrickcaramico/patrickcaramico/output/snake.svg" alt="Snake animation" />
+</div>
 
-<h2 align="left">My Social Networks</h2>
+---
 
-###
+### 📬 Conecte-se comigo
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/patrickcaramico/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/CaramicoPatrick" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="patrickcaramico" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/patrickcaramico" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
 <br>
-
-
-###
-
-<h2 align="left">I code with</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-</div>
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=patrickcaramico.patrickcaramico&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=patrickcaramico.patrickcaramico&" alt="Visitor count" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcaramico&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=patrickcaramico&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=patrickcaramico&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />  
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/patrickcaramico/patrickcaramico/output/snake.svg" alt="Snake animation" />
-
-###
 
