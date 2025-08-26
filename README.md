@@ -14,6 +14,7 @@ Este portfólio é um espaço em constante evolução. Meu compromisso é sempre
 ### 🛠️ Minhas Habilidades e Ferramentas
 
 <div align="center">
+
   | Linguagens | Layout & Design | Ferramentas |
   | :--- | :--- | :--- |
   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> | **Layouts:** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> |
@@ -44,34 +45,18 @@ Este repositório é um resumo dos meus projetos mais importantes. Para ver mais
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcaramico&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages graph" />
-  <img src="https://streak-stats.demolab.com?user=patrickcaramico&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=patrickcaramico&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophy graph" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickcaramico&label=Profile%20views&color=0e75b6&style=flat" alt="patrickcaramico" /> </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/patrickcaramico/patrickcaramico/output/snake.svg" alt="Snake animation" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrickcaramico&show_icons=true&locale=en&layout=compact" alt="patrickcaramico" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickcaramico&show_icons=true&locale=en" alt="patrickcaramico" /></p>
 
-### 📬 Conecte-se comigo
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://twitter.com/caramicopatrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="caramicopatrick" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/patrickcaramico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrickcaramico" height="30" width="40" /></a>
+<a href="https://instagram.com/patrickcaramico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patrickcaramico" height="30" width="40" /></a>
+<a href="https://discord.gg/patrickcaramico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="patrickcaramico" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/patrickcaramico/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/CaramicoPatrick" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/patrickcaramico" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=patrickcaramico.patrickcaramico&" alt="Visitor count" />
-</div>
 
