@@ -11,9 +11,9 @@ Este portfólio é um espaço em constante evolução. Meu compromisso é sempre
 
 ---
 
-<div align="center">
-  ### 🛠️ Minhas Habilidades e Ferramentas
+### 🛠️ Minhas Habilidades e Ferramentas
 
+<div align="center">
   | Linguagens | Layout & Design | Ferramentas |
   | :--- | :--- | :--- |
   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> | **Layouts:** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /> |
@@ -38,7 +38,7 @@ Este repositório é um resumo dos meus projetos mais importantes. Para ver mais
     -   **ClickTIme_V3**: A terceira versão de um sistema de gestão de tempo, demonstrando a evolução do projeto e a adição de novas funcionalidades.
     -   **project_login**: Um sistema de autenticação e login, focando na segurança e na experiência do usuário para acesso restrito.
 
-🔗 [**Veja meu portfólio completo aqui**](https://github.com/PatrickCaramico?tab=repositories)
+🔗 [**Veja meu repositorio completo aqui**](https://github.com/PatrickCaramico?tab=repositories)
 
 ---
 
@@ -74,5 +74,4 @@ Este repositório é um resumo dos meus projetos mais importantes. Para ver mais
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=patrickcaramico.patrickcaramico&" alt="Visitor count" />
 </div>
-
 
