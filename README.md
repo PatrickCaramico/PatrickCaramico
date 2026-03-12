@@ -58,7 +58,7 @@ Aqui você encontra meus principais projetos em constante evolução. Meu compro
 ## 🚀 Projetos em Destaque
 
 ### 🌊 **FocoWave** - Aplicativo de foco estilo Pomodoro
-> Um aplicativo de foco estilo Podoro com autenticação via google**
+> Um aplicativo de foco estilo Podoro com autenticação via google
 
 **Destaques:**
 - 🔐 login Google (Firebase Auth)
@@ -71,7 +71,7 @@ Aqui você encontra meus principais projetos em constante evolução. Meu compro
 <div align="center">
 
 [![Ver Projeto ao Vivo](https://img.shields.io/badge/🔗%20Ver%20Projeto-00C7B7?style=for-the-badge)](https://focowaves.netlify.app/)
-[![Ver no GitHub](https://img.shields.io/badge/Código%20Completo-333?style=for-the-badge&logo=github)](https://github.com/PatrickCaramico/infusion)
+[![Ver no GitHub](https://img.shields.io/badge/Código%20Completo-333?style=for-the-badge&logo=github)](https://github.com/PatrickCaramico/FocoWave)
 
 </div>
 
