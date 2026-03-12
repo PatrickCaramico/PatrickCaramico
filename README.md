@@ -57,16 +57,23 @@ Aqui você encontra meus principais projetos em constante evolução. Meu compro
 
 ## 🚀 Projetos em Destaque
 
-### 🌟 **Infusion** - Tema de Negócios Profissional
-> Um tema empresarial completo com foco em **modularização e reutilização de código**
+### 🌊 **FocoWave** - Aplicativo de foco estilo Pomodoro
+> Um aplicativo de foco estilo Podoro com autenticação via google**
 
 **Destaques:**
-- ✨ Carrossel genérico em JavaScript (POO com Classes)
-- 🎯 Menu responsivo com animações suaves
-- 📱 Design mobile-first
-- ⚡ Performance otimizada
+- 🔐 login Google (Firebase Auth)
+- 👤 Modo visitante com persistência local
+- 📲 Temas customizados
+- 🔥 Streak diário
 
-**Tecnologias:** HTML5 | CSS3 | JavaScript OOP | Responsivo
+**Tecnologias:** HTML5 | CSS3 | JavaScript OOP | Timer-Pomodoro
+
+<div align="center">
+
+[![Ver Projeto ao Vivo](https://img.shields.io/badge/🔗%20Ver%20Projeto-00C7B7?style=for-the-badge)](https://focowaves.netlify.app/)
+[![Ver no GitHub](https://img.shields.io/badge/Código%20Completo-333?style=for-the-badge&logo=github)](https://github.com/PatrickCaramico/infusion)
+
+</div>
 
 ---
 
